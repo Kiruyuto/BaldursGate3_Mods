@@ -20,19 +20,19 @@
                 <node id="ModuleInfo">
                     <attribute id="Author" type="LSString" value="Kiruyuto"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSString" value="Removes concentration from &quot;Shield of Faith&quot; Spell"/>
+                    <attribute id="Description" type="LSString" value="Removes concentration from &quot;Shield of Faith&quot; spell"/>
                     <attribute id="FileSize" type="uint64" value="0"/>
                     <attribute id="Folder" type="LSString" value="Kiru_Paladin_ShieldOfFaith_663d59c4-565f-ea61-7139-064e6186070b"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="676e2b713e6fbad174fbf0b642f9490d"/>
+                    <attribute id="MD5" type="LSString" value="000bc0b1465dd4e1156c55c95af70319"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="LSString" value="Kiru_Paladin_ShieldOfFaith"/>
+                    <attribute id="Name" type="LSString" value="[BUFF] Shield Of Faith"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="PublishHandle" type="uint64" value="4322171"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="663d59c4-565f-ea61-7139-064e6186070b"/>
-                    <attribute id="Version64" type="int64" value="36028797018963969"/>
+                    <attribute id="Version64" type="int64" value="36028797018963970"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>

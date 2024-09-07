@@ -36,7 +36,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Kiru_DivineFavor_2" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="683be3d2-6023-421a-9f76-06de9baf9e56" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1;SpellSlotsGroup:1:1:2" />
-        <field name="RootSpellID" type="StringTableFieldDefinition" value="Shout_DivineFavor" />
+        <field name="RootSpellID" type="StringTableFieldDefinition" value="Shout_Kiru_DivineFavor" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="2" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2ef9ff4egd03dga2d9gb1fag499aa867549a" version="1" />
       </fields>
@@ -47,7 +47,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Kiru_DivineFavor_3" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="683be3d2-6023-421a-9f76-06de9baf9e56" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1;SpellSlotsGroup:1:1:3" />
-        <field name="RootSpellID" type="StringTableFieldDefinition" value="Shout_DivineFavor" />
+        <field name="RootSpellID" type="StringTableFieldDefinition" value="Shout_Kiru_DivineFavor" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="3" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5f4482f4g113fg59c9g94f5gb5c853d37477" version="1" />
       </fields>

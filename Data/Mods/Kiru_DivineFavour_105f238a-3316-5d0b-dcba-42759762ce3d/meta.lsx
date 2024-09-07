@@ -21,10 +21,10 @@
                     <attribute id="Author" type="LSString" value="Kiruyuto"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
                     <attribute id="Description" type="LSString" value="Makes the spell last until long rest; Removes concentration"/>
-                    <attribute id="FileSize" type="uint64" value="0"/>
+                    <attribute id="FileSize" type="uint64" value="261152"/>
                     <attribute id="Folder" type="LSString" value="Kiru_DivineFavour_105f238a-3316-5d0b-dcba-42759762ce3d"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="a12fc224f0046f55a4b5e73078605170"/>
+                    <attribute id="MD5" type="LSString" value="bc3e3fca171f3971ef9474f9b1ded8ca"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="Kiru_DivineFavour"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
@@ -32,7 +32,7 @@
                     <attribute id="PublishHandle" type="uint64" value="4322280"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="105f238a-3316-5d0b-dcba-42759762ce3d"/>
-                    <attribute id="Version64" type="int64" value="36028797018963969"/>
+                    <attribute id="Version64" type="int64" value="36028797018963970"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>

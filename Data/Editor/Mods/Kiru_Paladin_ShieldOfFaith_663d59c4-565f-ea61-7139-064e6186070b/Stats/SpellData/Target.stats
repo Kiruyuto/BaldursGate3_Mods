@@ -40,7 +40,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Kiru_ShieldOfFaith_2" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="7717d881-5c50-47b7-ae34-44f499f9303b" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1;SpellSlotsGroup:1:1:2" />
-        <field name="RootSpellID" type="StringTableFieldDefinition" value="Kiru_Target_ShieldOfFaith" />
+        <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_Kiru_ShieldOfFaith" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="2" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5a088d69gde8bg62d8g7cf7gc9c20cbb815a" version="1" />
         <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell" enumeration_type_name="SpellFlagList" version="1" />

@@ -36,6 +36,6 @@ using "Target_Kiru_ShieldOfFaith"
 data "DisplayName" "h5a088d69gde8bg62d8g7cf7gc9c20cbb815a;1"
 data "UseCosts" "BonusActionPoint:1;SpellSlotsGroup:1:1:2"
 data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell"
-data "RootSpellID" "Kiru_Target_ShieldOfFaith"
+data "RootSpellID" "Target_Kiru_ShieldOfFaith"
 data "PowerLevel" "2"
 
