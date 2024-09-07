@@ -4,17 +4,17 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="2095e9b3-712e-4d48-a0c0-8adb1261aaa6" />
-        <field name="Name" type="NameTableFieldDefinition" value="Kiru_InquisitorsMight" />
+        <field name="Name" type="NameTableFieldDefinition" value="InquisitorsMight" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(INQUISITORS_MIGHT,100, -1)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="12" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Character() and not Dead() and not Enemy()" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_Paladin_InquisitorsMight" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2ed836d7gf4a9g73feg3cebg8eac959b608f" version="2" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="he0da200bg7705g3430g8f84gb8d831e9cfcc" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb014cddfg6eb6g2aadgdde7g063dd8a4206c" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hedb6daf2gefacgb0b9ge27bg22241f66495b" version="1" />
         <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(max(1,Cause.CharismaModifier),Radiant)" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(INQUISITORS_MIGHT,100, -1)" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
-        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1&#xD;&#xA;" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
         <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="83fb0115-57dd-4cce-ac40-87182b2865e2,,;,,;2da41f71-3471-4ac8-a268-63983acbe88c,,;70c2d89d-98bd-4462-82e2-8e30e9c727be,,;42014429-21fb-412d-bba6-0f8216f5e502,,;,,;43fa5e31-ad7e-47a9-9ca2-f6d40ba8e1cf,,;032cf56a-3808-45ad-9991-740431d9c14f,,;4b385541-a3a3-429d-93ae-dffa6da50050,," />
         <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Buff" enumeration_type_name="VerbalIntent" version="1" />
         <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Class" enumeration_type_name="SpellStyleGroup" version="1" />

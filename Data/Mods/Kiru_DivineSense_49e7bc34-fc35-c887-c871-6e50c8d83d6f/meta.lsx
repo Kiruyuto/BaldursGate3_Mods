@@ -20,19 +20,19 @@
                 <node id="ModuleInfo">
                     <attribute id="Author" type="LSString" value="Kiruyuto"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSString" value="Makes the spell last until long rest, changes cooldown from &quot;Once per short rest&quot; to &quot;Once per long rest&quot;"/>
+                    <attribute id="Description" type="LSString" value="Makes the spell last until long rest; Changes cooldown from &quot;Once per short rest&quot; to &quot;Once per long rest&quot;"/>
                     <attribute id="FileSize" type="uint64" value="261344"/>
                     <attribute id="Folder" type="LSString" value="Kiru_DivineSense_49e7bc34-fc35-c887-c871-6e50c8d83d6f"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="ce65e870d385fd0646cc160deb4b33ac"/>
+                    <attribute id="MD5" type="LSString" value="1f7bbdcdb0dc2db3219417fdfdc44ece"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="LSString" value="Kiru_DivineSense"/>
+                    <attribute id="Name" type="LSString" value="[BUFF] Divine Sense"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="PublishHandle" type="uint64" value="4322256"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="49e7bc34-fc35-c887-c871-6e50c8d83d6f"/>
-                    <attribute id="Version64" type="int64" value="36028797018963969"/>
+                    <attribute id="Version64" type="int64" value="72057594037927936"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>

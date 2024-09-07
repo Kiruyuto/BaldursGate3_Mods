@@ -2,4 +2,6 @@
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <content contentuid="he22e77f7g03a3g844bgcbc7gdd042111cddb" version="1">[I] Divine Sense</content>
   <content contentuid="h16bb1fd9g9616gc5acgfe2eg028b34993574" version="1">Gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against celestials, fiends, and undead.</content>
+  <content contentuid="he2543526g7054ga933g5900gc4a9a9d4b512" version="1">[I] Divine Sense</content>
+  <content contentuid="h559239c2g62fbgdbabg3743g826a69718e3e" version="1">Gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against celestials, fiends, and undead.</content>
 </contentList>

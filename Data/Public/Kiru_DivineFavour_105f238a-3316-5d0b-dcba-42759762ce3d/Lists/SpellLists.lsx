@@ -6,17 +6,17 @@
             <children>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="Paladin SLevel 1"/>
-                    <attribute id="Spells" type="LSString" value="Target_Command_Container;Target_CompelledDuel;Target_CureWounds;Target_Smite_Wrathful;Target_Bless;Shout_Kiru_DivineFavor;Target_Heroism;Target_ProtectionFromEvilAndGood;Target_Smite_Searing;Target_ShieldOfFaith;Target_Smite_Thunderous"/>
+                    <attribute id="Spells" type="LSString" value="Target_Command_Container;Target_CompelledDuel;Target_CureWounds;Target_Smite_Wrathful;Target_Bless;Shout_DivineFavor;Target_Heroism;Target_ProtectionFromEvilAndGood;Target_Smite_Searing;Target_ShieldOfFaith;Target_Smite_Thunderous"/>
                     <attribute id="UUID" type="guid" value="c6288ac5-c68b-40ed-bbdd-2ff388575831"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="Cleric, War Domain spell scroll list"/>
-                    <attribute id="Spells" type="LSString" value="Shout_Kiru_DivineFavor;Target_ShieldOfFaith;Target_MagicWeapon;Target_SpiritualWeapon;Shout_SpiritGuardians;Shout_CrusadersMantle;Target_Stoneskin;Target_FreedomOfMovement;Target_FlameStrike;Target_HoldMonster"/>
+                    <attribute id="Spells" type="LSString" value="Shout_DivineFavor;Target_ShieldOfFaith;Target_MagicWeapon;Target_SpiritualWeapon;Shout_SpiritGuardians;Shout_CrusadersMantle;Target_Stoneskin;Target_FreedomOfMovement;Target_FlameStrike;Target_HoldMonster"/>
                     <attribute id="UUID" type="guid" value="d76e6293-e2e3-4e63-9ef1-655556b18833"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="Paladin spell scroll list"/>
-                    <attribute id="Spells" type="LSString" value="Target_Bless;Target_Command_Container;Target_CompelledDuel;Target_CureWounds;Shout_Kiru_DivineFavor;Target_Heroism;Target_ProtectionFromEvilAndGood;Target_ShieldOfFaith;Target_Smite_Searing;Target_Smite_Thunderous;Target_Smite_Wrathful;Shout_Aid;Target_LesserRestoration;Target_MagicWeapon;Target_ProtectionFromPoison;Target_Smite_Branding_Container;Target_Smite_Blinding;Target_RemoveCurse;Teleportation_Revivify;Shout_CrusadersMantle;Target_Daylight_Container;Target_ElementalWeapon;Shout_AuraOfVitality"/>
+                    <attribute id="Spells" type="LSString" value="Target_Bless;Target_Command_Container;Target_CompelledDuel;Target_CureWounds;Shout_DivineFavor;Target_Heroism;Target_ProtectionFromEvilAndGood;Target_ShieldOfFaith;Target_Smite_Searing;Target_Smite_Thunderous;Target_Smite_Wrathful;Shout_Aid;Target_LesserRestoration;Target_MagicWeapon;Target_ProtectionFromPoison;Target_Smite_Branding_Container;Target_Smite_Blinding;Target_RemoveCurse;Teleportation_Revivify;Shout_CrusadersMantle;Target_Daylight_Container;Target_ElementalWeapon;Shout_AuraOfVitality"/>
                     <attribute id="UUID" type="guid" value="4ed41a6d-19fd-4ca8-940a-072314b71e43"/>
                 </node>
             </children>

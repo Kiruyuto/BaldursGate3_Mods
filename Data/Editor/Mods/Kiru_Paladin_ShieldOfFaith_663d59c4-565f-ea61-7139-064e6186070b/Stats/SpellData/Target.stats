@@ -4,13 +4,13 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="7717d881-5c50-47b7-ae34-44f499f9303b" />
-        <field name="Name" type="NameTableFieldDefinition" value="Kiru_ShieldOfFaith" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShieldOfFaith" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(SHIELD_OF_FAITH,100,-1)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ShieldOfFaith" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h37d43754g45eega978g55b7g75608bd3b887" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h76a8a103g5c07gab08g02abg23d124b7e590" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9b94cc19geb75g6f46gb518ge169394ca864" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h708ef661gdb9fg5635g9bd9g95c3232ee0aa" version="1" />
         <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Buff_ShieldOfFaith_L1to3" />
@@ -37,13 +37,12 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="e73b8522-8c17-49cf-99dc-c3497d7c7ac3" />
-        <field name="Name" type="NameTableFieldDefinition" value="Kiru_ShieldOfFaith_2" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShieldOfFaith_2" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="7717d881-5c50-47b7-ae34-44f499f9303b" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1;SpellSlotsGroup:1:1:2" />
-        <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_Kiru_ShieldOfFaith" />
+        <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_ShieldOfFaith" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="2" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5a088d69gde8bg62d8g7cf7gc9c20cbb815a" version="1" />
-        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h80e63661g32a5g0a65ga564g5c4039c7d57d" version="1" />
       </fields>
     </stat_object>
   </stat_objects>

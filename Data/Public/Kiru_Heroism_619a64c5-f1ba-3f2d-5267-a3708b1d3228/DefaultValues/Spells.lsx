@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_HealingWord;Target_DissonantWhispers;Target_HideousLaughter;Target_Heroism;Target_CureWounds;Zone_Thunderwave;Shout_SpeakWithAnimals;Target_AnimalFriendship;Target_Bane;Target_CharmPerson;Target_Sleep;Target_FaerieFire;Shout_DisguiseSelf;Shout_FeatherFall;Target_Longstrider"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="BardSpells"/>
+                    <attribute id="TableUUID" type="guid" value="229c98da-2cd1-4a5e-8051-9d90ec7931e7"/>
+                    <attribute id="UUID" type="guid" value="da6f4c28-e457-4fc1-ab56-8ab414d09a80"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

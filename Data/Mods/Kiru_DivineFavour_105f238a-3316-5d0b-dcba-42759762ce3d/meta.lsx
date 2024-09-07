@@ -24,15 +24,15 @@
                     <attribute id="FileSize" type="uint64" value="261152"/>
                     <attribute id="Folder" type="LSString" value="Kiru_DivineFavour_105f238a-3316-5d0b-dcba-42759762ce3d"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="bc3e3fca171f3971ef9474f9b1ded8ca"/>
+                    <attribute id="MD5" type="LSString" value="a226d43ba9a2a52b26f9a23502241380"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="LSString" value="Kiru_DivineFavour"/>
+                    <attribute id="Name" type="LSString" value="[BUFF] Divine Favour"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="PublishHandle" type="uint64" value="4322280"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="105f238a-3316-5d0b-dcba-42759762ce3d"/>
-                    <attribute id="Version64" type="int64" value="36028797018963970"/>
+                    <attribute id="Version64" type="int64" value="72057594037927936"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>

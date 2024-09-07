@@ -5,7 +5,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="fb407d81-3a05-46f1-9153-0fb27dce95b6" />
         <field name="Name" type="NameTableFieldDefinition" value="Paladin always prepared spells level 1" />
-        <field name="Spells" type="StringTableFieldDefinition" value="Target_LayOnHands;Shout_Kiru_DivineSense" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_LayOnHands;Shout_DivineSense" />
       </fields>
     </stat_object>
   </stat_objects>

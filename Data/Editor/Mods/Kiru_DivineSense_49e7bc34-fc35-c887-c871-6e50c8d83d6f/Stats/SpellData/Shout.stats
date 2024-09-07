@@ -4,12 +4,12 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="ad3cc122-fe98-4079-83b9-ca0ba2bdf1ed" />
-        <field name="Name" type="NameTableFieldDefinition" value="Kiru_DivineSense" />
+        <field name="Name" type="NameTableFieldDefinition" value="DivineSense" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerRest" enumeration_type_name="CooldownType" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(DIVINE_SENSE,100, -1)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he22e77f7g03a3g844bgcbc7gdd042111cddb" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h16bb1fd9g9616gc5acgfe2eg028b34993574" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he2543526g7054ga933g5900gc4a9a9d4b512" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h559239c2g62fbgdbabg3743g826a69718e3e" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(DIVINE_SENSE,100, -1)" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />

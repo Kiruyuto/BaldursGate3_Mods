@@ -24,7 +24,7 @@
                     <attribute id="FileSize" type="uint64" value="262874"/>
                     <attribute id="Folder" type="LSString" value="Kiru_Heroism_619a64c5-f1ba-3f2d-5267-a3708b1d3228"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="8270010eac720d4994aba85baece6a1d"/>
+                    <attribute id="MD5" type="LSString" value="9b827a93eddea76c8ab1051d430c473e"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="[BUFF] Heroism"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
@@ -32,7 +32,7 @@
                     <attribute id="PublishHandle" type="uint64" value="4322326"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="619a64c5-f1ba-3f2d-5267-a3708b1d3228"/>
-                    <attribute id="Version64" type="int64" value="36028799166447622"/>
+                    <attribute id="Version64" type="int64" value="72198331526283264"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>

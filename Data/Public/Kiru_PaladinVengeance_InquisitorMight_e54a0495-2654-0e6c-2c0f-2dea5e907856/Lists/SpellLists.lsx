@@ -6,7 +6,7 @@
             <children>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="Paladin Vengance Spells level 1"/>
-                    <attribute id="Spells" type="LSString" value="Target_Kiru_InquisitorsMight"/>
+                    <attribute id="Spells" type="LSString" value="Target_InquisitorsMight"/>
                     <attribute id="UUID" type="guid" value="bc56da1f-38fa-49b6-bf58-1159cecd92a4"/>
                 </node>
             </children>

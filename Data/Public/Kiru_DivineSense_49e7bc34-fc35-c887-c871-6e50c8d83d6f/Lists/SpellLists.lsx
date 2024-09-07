@@ -6,7 +6,7 @@
             <children>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="Paladin always prepared spells level 1"/>
-                    <attribute id="Spells" type="LSString" value="Target_LayOnHands;Shout_Kiru_DivineSense"/>
+                    <attribute id="Spells" type="LSString" value="Target_LayOnHands;Shout_DivineSense"/>
                     <attribute id="UUID" type="guid" value="fb407d81-3a05-46f1-9153-0fb27dce95b6"/>
                 </node>
             </children>
