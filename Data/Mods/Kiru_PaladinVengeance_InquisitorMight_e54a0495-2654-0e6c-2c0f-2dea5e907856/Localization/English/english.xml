@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h2ed836d7gf4a9g73feg3cebg8eac959b608f" version="2">[I]nquisitor's Might</content>
+  <content contentuid="he0da200bg7705g3430g8f84gb8d831e9cfcc" version="1">You or an ally's weapon attacks deal an additional [1] and can &lt;LSTag Type="Status" Tooltip="DAZED"&gt;Daze&lt;/LSTag&gt; enemies for 1 turn.</content>
+</contentList>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="e54a0495-2654-0e6c-2c0f-2dea5e907856"/>
+            <attribute id="Name" type="LSString" value="Kiru_PaladinVengeance_InquisitorMight"/>
+            <attribute id="UUID" type="LSString" value="a477411b-b640-83c2-3819-3da853b6d563"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

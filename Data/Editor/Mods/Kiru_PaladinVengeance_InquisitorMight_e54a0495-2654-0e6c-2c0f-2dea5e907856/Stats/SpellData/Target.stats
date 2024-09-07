@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e988a674-28fe-49d2-a6ce-c5c1e0141f4c">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2095e9b3-712e-4d48-a0c0-8adb1261aaa6" />
+        <field name="Name" type="NameTableFieldDefinition" value="Kiru_InquisitorsMight" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(INQUISITORS_MIGHT,100, -1)" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="12" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="Character() and not Dead() and not Enemy()" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_Paladin_InquisitorsMight" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2ed836d7gf4a9g73feg3cebg8eac959b608f" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="he0da200bg7705g3430g8f84gb8d831e9cfcc" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(max(1,Cause.CharismaModifier),Radiant)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(INQUISITORS_MIGHT,100, -1)" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1&#xD;&#xA;" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="83fb0115-57dd-4cce-ac40-87182b2865e2,,;,,;2da41f71-3471-4ac8-a268-63983acbe88c,,;70c2d89d-98bd-4462-82e2-8e30e9c727be,,;42014429-21fb-412d-bba6-0f8216f5e502,,;,,;43fa5e31-ad7e-47a9-9ca2-f6d40ba8e1cf,,;032cf56a-3808-45ad-9991-740431d9c14f,,;4b385541-a3a3-429d-93ae-dffa6da50050,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Buff" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Class" enumeration_type_name="SpellStyleGroup" version="1" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Paladin_InquisitorsMight_01" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Paladin_InquisitorsMight" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalNonDamage" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="c218f05b-1e12-4298-beff-e4d33a5fa5a5" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="954307f2-6216-4eff-aa7a-d87553bcee37" />
+        <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="abb61fd9-813b-4112-933a-dbc1eb07194a" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
