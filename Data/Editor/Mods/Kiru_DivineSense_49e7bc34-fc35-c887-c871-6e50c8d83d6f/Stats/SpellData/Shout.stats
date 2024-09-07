@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="9fd4ac7a-fad7-424f-83df-0893eae93c38">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ad3cc122-fe98-4079-83b9-ca0ba2bdf1ed" />
+        <field name="Name" type="NameTableFieldDefinition" value="Kiru_DivineSense" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerRest" enumeration_type_name="CooldownType" version="1" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(DIVINE_SENSE,100, -1)" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he22e77f7g03a3g844bgcbc7gdd042111cddb" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h16bb1fd9g9616gc5acgfe2eg028b34993574" version="1" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(DIVINE_SENSE,100, -1)" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="83fb0115-57dd-4cce-ac40-87182b2865e2,,;,,;62e74220-ba87-4fe7-aa99-9d12cab9d654,,;b1f3f86a-a1fc-43f6-8a2b-0110a9f99ead,,;42014429-21fb-412d-bba6-0f8216f5e502,,;,,;43fa5e31-ad7e-47a9-9ca2-f6d40ba8e1cf,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Buff" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="c218f05b-1e12-4298-beff-e4d33a5fa5a5" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="1f10d98c-de9b-4e84-a6c3-d0e4417212ec" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Buff_DivineSense_L1to3" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Buff_DivineSense_L1to3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_Paladin_DivineSense" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="UnavailableInDialogs" enumeration_type_name="SpellFlagList" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

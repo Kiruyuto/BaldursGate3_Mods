@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="49e7bc34-fc35-c887-c871-6e50c8d83d6f"/>
+            <attribute id="Name" type="LSString" value="Kiru_DivineSense"/>
+            <attribute id="UUID" type="LSString" value="e0588fa2-feca-ae44-0b2c-264bf5a972e6"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

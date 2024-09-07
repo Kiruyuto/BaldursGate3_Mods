@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="9fd4ac7a-fad7-424f-83df-0893eae93c38">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="683be3d2-6023-421a-9f76-06de9baf9e56" />
+        <field name="Name" type="NameTableFieldDefinition" value="Kiru_DivineFavor" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Evocation_DivineFavor" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5116fc53g60aeg4790g960ag25b27bb5f470" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7588e15bg9674g47ecgdbb9g3652de5b7bd0" version="1" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1;SpellSlotsGroup:1:1:1" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="71369b20-18f1-4d33-89ad-a99b10f0444c,,;,,;35b644cf-5c13-4407-9dc1-23bf4309216e,,;823e3ddf-c670-41ef-b7b4-9f4a4e38300b,,;3b9da8d4-3eff-43bd-9eaa-1c13fba0045e,,;,,;d5be826c-163f-4cc3-b195-2101e32e3da2,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Buff" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Evocation" enumeration_type_name="SpellSchool" version="1" />
+        <field name="VocalComponentSound" type="StringTableFieldDefinition" value="Vocal_Component_Prayer" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="1516f4b2-5a53-4adf-bf85-d6e46826cffe" />
+        <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Class" enumeration_type_name="SpellStyleGroup" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d4,Radiant)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(DIVINE_FAVOR, 100, -1)" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="747ac7e5-c52e-4e5a-be78-1f9de85b55ea" />
+        <field name="WeaponType" type="EnumerationListTableFieldDefinition" value="Melee" enumeration_type_name="WeaponFlags" version="1" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Buff_DivineFavor_L1to3" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Buff_DivineFavor_L1to3" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(DIVINE_FAVOR, 100, -1)" />
+        <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
+        <field name="Sheathing" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="SpellSheathing" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="07ae6ad9-8ed9-489e-a1ca-aa70e60ac91b" />
+        <field name="Name" type="NameTableFieldDefinition" value="Kiru_DivineFavor_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="683be3d2-6023-421a-9f76-06de9baf9e56" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1;SpellSlotsGroup:1:1:2" />
+        <field name="RootSpellID" type="StringTableFieldDefinition" value="Shout_DivineFavor" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2ef9ff4egd03dga2d9gb1fag499aa867549a" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9b0f2d64-ef62-4ff3-93be-b58555c1da3e" />
+        <field name="Name" type="NameTableFieldDefinition" value="Kiru_DivineFavor_3" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="683be3d2-6023-421a-9f76-06de9baf9e56" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1;SpellSlotsGroup:1:1:3" />
+        <field name="RootSpellID" type="StringTableFieldDefinition" value="Shout_DivineFavor" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="3" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5f4482f4g113fg59c9g94f5gb5c853d37477" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
