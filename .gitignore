@@ -1,0 +1,31 @@
+# https://mod.io/g/baldursgate3/r/getting-started-creating-a-new-mod#heading-4
+# Ignore all:
+*
+# Except for:
+!*/
+
+# Contains the data for the mod project to show up in the Toolkit.
+# You can also add a PNG image into this folder (must be called thumbnail.png), 
+# and it will show up in the editor as the image for your projec
+!/Data/Projects/Kiru_**
+
+# Not packed.
+# For editor files, like UUID or Stats files, that contain editor-specific data.
+!/Data/Editor/Mods/Kiru_**
+
+# Mod data that will be packed.
+# Examples: UI assets, localisation, Osiris scripts, some level data, Thoth scripts
+!/Data/Mods/Kiru_**
+
+# Mod data that will be packed.
+# Examples: stats files, root templates, UUID tables, 
+# any created Resources (VisualResources, AnimationResource, etc) 
+# and their corresponding assets, texture atlases
+!/Data/Public/Kiru_**
+
+# Mod data that will be packed.
+# Examples: Virtual Textures, .dds files for overwritten textures.
+!/Data/Generated/Public/Kiru_**
+
+!.gitignore
+!README.md
