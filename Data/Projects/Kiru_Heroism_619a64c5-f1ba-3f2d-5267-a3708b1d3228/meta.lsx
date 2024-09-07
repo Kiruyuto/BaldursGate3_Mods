@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="619a64c5-f1ba-3f2d-5267-a3708b1d3228"/>
+            <attribute id="Name" type="LSString" value="Kiru_Heroism"/>
+            <attribute id="UUID" type="LSString" value="94389e1c-015d-bcfe-7c3e-7aa6b7ce7989"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

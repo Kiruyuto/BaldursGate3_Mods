@@ -36,3 +36,12 @@
   - Removes concentration
   
 </details>
+
+<details>
+  <summary>Kiru_Heroism</summary>
+
+  - Makes the spell last until long rest
+  - Renames the spell to `[I] Heroism`
+  - Removes concentration
+  
+</details>

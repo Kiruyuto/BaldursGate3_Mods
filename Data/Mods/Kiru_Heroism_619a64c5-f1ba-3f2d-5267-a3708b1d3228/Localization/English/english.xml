@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="hb1757ee4gded4g6097g7be3g80bea0ea9b92" version="1">[I] Heroism</content>
+  <content contentuid="hff9239ccg1072g3931g2b52gefbbc8465a5a" version="1">Make yourself or a target immune to &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; and gain [1] each turn.</content>
+  <content contentuid="h83842d03g14a3g4a61gdf9ag4092a7cf7617" version="1">Make yourself or a target immune to &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; and gain [1] each turn.</content>
+  <content contentuid="h2905be2egee55g40f8g2748g5a2b6c7ae09f" version="1">[I] Heroism</content>
+  <content contentuid="ha0816063gae19gccf5g75e5gd684f354a758" version="1">Make yourself or a target immune to &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; and gain [1] each turn.</content>
+  <content contentuid="h11f86ffegb5bfg5bf4ge8a5g647322dabc29" version="1">[I] Heroism</content>
+</contentList>
