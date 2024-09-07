@@ -32,7 +32,7 @@
   <summary>Kiru_DivineFavour</summary>
 
   - Makes the spell last until long rest
-  - Renames the spell to `[I] Divine Sense`
-  - Changes cooldown from `Once per short rest` to `Once per long rest`
+  - Renames the spell to `[I] Divine Favour`
+  - Removes concentration
   
 </details>
